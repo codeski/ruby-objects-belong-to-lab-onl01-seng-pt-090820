@@ -8,7 +8,7 @@ class Song
   
 end
 
-drake = Artist.new
-hotline_bling = Song.new
+# drake = Artist.new
+# hotline_bling = Song.new
  
-hotline_bling.artist = drake
+# hotline_bling.artist = drake
