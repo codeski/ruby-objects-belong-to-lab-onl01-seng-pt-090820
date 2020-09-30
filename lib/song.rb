@@ -4,7 +4,7 @@ class Song
   
 end
 
-drake = Artist.new("Drake", "rap")
-hotline_bling = Song.new("Hotline Bling")
+drake = Artist.new
+hotline_bling = Song.new
  
 hotline_bling.artist = drake
